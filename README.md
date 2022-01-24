@@ -1,0 +1,1 @@
+First javascript project - creating a passenger count app. Projects goes over basics of linking js with html and making responsive buttons
